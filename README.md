@@ -18,7 +18,7 @@ This repository contains all materials and code for our research project aiming 
 
 ✏️ Command Rephrasing: Apply templates to convert raw inputs into Siri‑compatible phrasing.
 
-📊 Evaluation
+📊 **Evaluation**
 
 📈 Metrics: Accuracy, Precision, Recall, Macro‑F1, Response Time.
 
@@ -26,7 +26,7 @@ This repository contains all materials and code for our research project aiming 
 
 📊 Reproduce: Use Evaluation.ipynb to reproduce plots and tables (confusion matrices, success rates).
 
-📞 Contact
+📞 **Contact**
 
 📧 Naama Maimon — naamamai@post.bgu.ac.il
 
@@ -34,7 +34,7 @@ This repository contains all materials and code for our research project aiming 
 
 📧 Coral Yagud — yagudcor@post.bgu.ac.il
 
-Advisors: Prof. Mark Last, Dr. Meirav Taieb-Maimon
+**Advisors:** Prof. Mark Last, Dr. Meirav Taieb-Maimon
 Seminar Instructor: Prof. Noa Dagan
 Based on research thesis by Shai Sitri
 
