@@ -1,10 +1,10 @@
 ### 📱 Utilizing a Voice Assistant to Aid Older Adults Using Smartphones ###
 
-📝 ** Project Overview **
+📝 **Project Overview**
 
 This repository contains all materials and code for our research project aiming to improve smartphone accessibility for older adults via enhanced voice-assistant interactions. We fine-tune and evaluate Hebrew-language models (AlephBERT, AlephBERT‑Gimel, HeBERT) to recognize and reformulate imprecise commands into Siri-compatible intents, validated through real-world user experiments.
 
-🚀 Experiment Workflow
+🚀 **Experiment Workflow**
 
 🧹 Data Cleaning & Augmentation: Remove duplicates, balance intents, translate SLURP.
 
