@@ -8,13 +8,13 @@ This repository contains all materials and code for our research project aiming 
 
 🧹 Data Cleaning & Augmentation: Remove duplicates, balance intents, translate SLURP.
 
-🏗️ Index Building: Extract entities (dates, names, places) via NER indices.
-
 ⚙️ Fine-Tuning: Train three models (AlephBERT, AlephBERT‑Gimel, HeBERT) on the combined Hebrew dataset.
 
 🔄 Cross-Validation: 5‑fold CV with grid search (batch size, learning rate) to log best runs.
 
 ✅ Final Evaluation: Test best model on elderly and young user commands; compare against Siri.
+
+🏗️ Index Building: Extract entities (dates, names, places) via NER indices.
 
 ✏️ Command Rephrasing: Apply templates to convert raw inputs into Siri‑compatible phrasing.
 
