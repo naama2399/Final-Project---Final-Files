@@ -1,0 +1,510 @@
+﻿predicted_intent,command,true_intent,group
+calendar_set, תקבעי פגישה עם דוקטור רימון ותקראי לה תור לרופא ברביעי ליוני בשתיים וחצי,calendar_set,Young
+calendar_set, תקבעי פגישה בשם תור לרופא ברביעי ליוני בשתיים וחצי ותכתבי בהערות לדוקטור רימון,calendar_set,Young
+lists_createoradd, תוסיפי לפתקים רשימת קניות חלב ביצים ודגים,lists_createoradd,Young
+lists_createoradd, תוסיפי לי לפתקים רשימת קניות חלב ביצים ודגים,lists_createoradd,Young
+alarm_set, תכווני לי שעון מעורר בבקשה למחר בשעה שש ארבעים ושמונה בבוקר,alarm_set,Young
+transport_query, איך אני מגיעה לשדרות רוטשילד שלושים בבאר שבע בהליכה ברגל,transport_query,Young
+transport_query, תפתחי את אפליקציית מפות ותראי לי מסלול הליכה ברגל לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, איך אני מגיעה לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, תראי לי את המסלולי הליכה ברגל לרוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, איך אני מנווטת מכאן לשדרות רוטשילד שלושים בבאר שבע בהליכה רגלית,transport_query,Young
+transport_query, תני לי הוראות הגעה ברגל להגיע לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+camera_query, את יכולה לפתוח לי מצלמה אחורית,camera_query,Young
+alarm_set, שימי שעון מעורר לשש ארבעים ושמונה,alarm_set,Young
+alarm_set, שימי לי שעון מעורר לשעה לשש ארבעים ושמונה בבוקר,alarm_set,Young
+send_message, שלחי אס אם אס לישראל זילברמן,send_message,Young
+send_message, אנא שלחי לישראל זילברמן את הודעת הטקסט הבאה באסאמס תתקשר אלי כשתתפנה בבקשה,send_message,Young
+lists_createoradd," אני רוצה לרשום פתק, הפתק יקרא רשימת קניות, בפתק יהיה רשום חלב שורה למטה ביצים שורה למטה דגים",lists_createoradd,Young
+transport_query, את יכולה להפעיל לי ניווט משדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, את יכולה להראות לי איך להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, את יכולה במפות לפתוח לי מסלול לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, אני צריך להגיע לכתובת שדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, את יכולה להראות לי איך להגיע ברגל לשדרות רוטשילד שלושים באר שבע,transport_query,Young
+lists_createoradd, את יכולה לפתוח לי פתק של רשימת קניות שכתוב בו חלב ביצים ודגים,lists_createoradd,Young
+transport_query, אני צריך לנווט לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, אני רוצה לנווט לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, תנווטי לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, תעזרי לי לנווט לשדרות רוטשילד שלושים בבאר שבע בצורה רגלית,transport_query,Young
+transport_query, אני רוצה להגיע ברגל לרחוב שדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, באמצעות אפליקציית מפות תעזרי לי להגיע מהמיקום הנוכחי שלי לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, אני רוצה לקבל הוראות הגעה לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, אני צריך עזרה להגיע לרחוב שדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+lists_createoradd, תוסיפי רשימת קניות שבה יהיה חלב ביצים ודגים,lists_createoradd,Young
+transport_query, את יכולה לנווט אותי לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+calendar_set, את יכולה לשים לי פגישה עם דוקטור רימון זה תור לרופא זה יהיה ברביעי ביוני בשעה שתים וחצי,calendar_set,Young
+camera_query, את יכולה לפתוח לי את המצלמה במצב צילום נוף,camera_query,Young
+camera_query, את יכולה לפתוח לי את המצלמה במצב של צילום נוף,camera_query,Young
+alarm_set, תעירי אותי מחר בשש ארבעים ושמונה בבוקר,alarm_set,Young
+transport_query, איך מגיעים לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, תכווני אותי איך להגיע לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+lists_createoradd, תיצרי לי רשימת קניות עם חלב ביצים ודגים,lists_createoradd,Young
+alarm_set, את יכולה לכוון שעון לשש ארבעים ושמונה בבוקר,alarm_set,Young
+alarm_set, את יכולה לכוון שעון מעורר לשש ארבעים ושמונה בבוקר,alarm_set,Young
+transport_query, איך מגיעים לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, אני רוצה להגיע ברגל לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, תנווטי אותי לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, תנווטי אותי ברגל לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, איך מגיעים ברגל לשדרות רוטשילד שלושים באר שבע,transport_query,Young
+transport_query, תפתחי מפה לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+lists_createoradd, תעשי לי רשימת קניות עם חלב ביצים ודגים,lists_createoradd,Young
+calendar_set, תוסיפי ליומן בבקשה פגישה עם דר רימון ותקראי לה תור לרופא ברביעי לשישי בשתיים וחצי,calendar_set,Young
+calendar_set, תקבעי לי תור לרופא ברביעי לשישי בשתיים וחצי ותקראי לו תור לרופא,calendar_set,Young
+calendar_set, תקבעי לי פגישה ביומן ברביעי לשישי בשתיים וחצי פגישה עם דר רימון,calendar_set,Young
+alarm_set, תעשי בבקשה שעון מעורר לשש ארבעים ושמונה בבוקר מחר,alarm_set,Young
+alarm_set, אפשר בבקשה שעון מעורר למחר לשש ארבעים ושמונה בבוקר,alarm_set,Young
+alarm_set, תקבעי שעון למחר לשש ארבע שמונה בבוקר,alarm_set,Young
+transport_query, אפשר הוראות הגעה לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, אני צריכה הוראות הגעה לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, תני לי הוראות הגעה לשדרות רוטשילד שלושים בבאר שבע ברגל בבקשה,transport_query,Young
+transport_query, תפתחי לי גוגל מפס אני צריכה להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, תפתחי לי מפה להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, אני רוצה להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, אני רוצה להגיע לשדרות רוטשילד שלושים ברגל בבקשה את יכולה לפתוח לי מפות,transport_query,Young
+transport_query, תפתחי לי מפה לרוטשילד שלושים בבאר שבע בבקשה,transport_query,Young
+transport_query, אני רוצה להגיע לשדרות רוטשילד שלושים תפתחי לי מפה כדי שאני אוכל להגיע,transport_query,Young
+calendar_set, שימי לי תור לרופא דוקטור רימון תור לרופא בתאריך הרביעי ליוני בשתיים וחצי,calendar_set,Young
+calendar_set, בתאריך הרביעי לשישי בשתיים וחצי תקבעי לי פגישה עם דוקטור רימון לשעה בבקשה,calendar_set,Young
+calendar_set, תקבעי לי תור ביומן תור לרופא ברביעי לשישי בשתיים וחצי,calendar_set,Young
+calendar_set, בשתיים וחצי ברביעי לשישי תשימי לי תור לרופא בבקשה ליומן עם דוקטור רימון,calendar_set,Young
+camera_query, תצלמי את הנוף בבקשה,camera_query,Young
+transport_query, תנווטי אותי לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+calendar_set, תקבעי לי תור ליומן פגישה עם דוקטור רימון לרופא בתאריך,calendar_set,Young
+lists_createoradd, תרשמי לי פתק רשימת קניות חלב ביצים,lists_createoradd,Young
+lists_createoradd, תרשמי פתק רשימת קניות שיש שם חלב ביצים ודגים,lists_createoradd,Young
+lists_createoradd, תצרי פתק השם רשימת קניות ובפנים תוסיפי חלב ביצים ודגים,lists_createoradd,Young
+lists_createoradd, תוסיפי פתק עם כותרת רשימת קניות ובפנים תוסיפי חלב ביצים ודגים,lists_createoradd,Young
+lists_createoradd, תצרי פתק בשם רשימת קניות בתוך הרשימת קניות יהיה חלב ביצים ודגים,lists_createoradd,Young
+alarm_set, תכווני שעון מעורר לשש ארבעים ושמונה,alarm_set,Young
+alarm_set, תכווני שעון מעורר לשש ארבעים ושמונה בבוקר,alarm_set,Young
+alarm_set, תכווני שעון מעורר לשעה שש ארבעים ושמונה בבוקר,alarm_set,Young
+alarm_set, תכווני שעון מעורר לאפס שש נקודתיים ארבעים ושמונה,alarm_set,Young
+transport_query, איך אני מגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, אני צריך להגיע לרחוב שדרות רוטשילד שלושים בעיר באר שבע ברגל איך אני עושה את זה,transport_query,Young
+transport_query, תגידי לי איך להגיע ברגל לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, שדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, איך אני מגיע ברגל לרחוב שדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, תכווני אותי לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+lists_createoradd, תרשמי לי פתק עם רשימת קניות ותשימי בה חלב ביצים ודגים,lists_createoradd,Young
+send_message, אני מעוניין למצוא את אנה לוי באנשי קשר,call_contact,Young
+alarm_set, את יכולה לכוון את השעון מעורר שלי למחר בשעה שש ארבעים ושמונה בבוקר,alarm_set,Young
+query, את יכולה לבדוק מהי העיר בירה של בבליז,query,Young
+camera_query, את יכולה לפתוח את המצלמה באייפון,camera_query,Young
+camera_query, את יכולה לפתוח את המצלמה בטלפון,camera_query,Young
+camera_query, את יכולה לפתוח את האפליקציה של המצלמה,camera_query,Young
+lists_createoradd, את יכולה לפתוח בפתקים פתק עם הכותרת רשימת קניות שיהיה רשום בפנים ביצים חלב ודגים,lists_createoradd,Young
+camera_query, את יכולה לפתוח את המצלמה סליחה את הפנס בטלפון,iot_wemo_on,Young
+alarm_set, את יכולה לשים שעון מעורר לשש בבוקר וארבעים שמונה דקות,alarm_set,Young
+alarm_set, את יכולה לשים שעון מעורר לשש ארבעים שמונה בבוקר,alarm_set,Young
+transport_query, את יכולה להגיד לי מה המסלול לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, את יכולה לפתוח גוגל מפס עם הכתובת שדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, איך אני מגיעה לשדרות רוטשילד שלושים ברגל בבאר שבע,transport_query,Young
+transport_query, את יכולה לבדוק לי מה המסלול לשדרות רוטשילד שלושים בבאר שבע במפות,transport_query,Young
+transport_query, את יכולה באפליקציה מפות לבדוק מה המסלול לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, את יכולה באפליקציה מפות לפתוח לי את הכתובת שדרות רוטשילד שלושים בבאר שבע ולעשות מסלול לשם ברגל,transport_query,Young
+transport_query, מה המסלול לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, את יכולה לבדוק איך אני מגיעה מאוניברסיטת בן גוריון לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, מה המסלול מאוניברסיטת בן גוריון לשדרות רוטשילד שלושים בבאר שבע בהליכה ברגל באפליקציית מפות,transport_query,Young
+transport_query, את יכולה לבדוק לי מה המסלול הליכה מאוניברסיטת בן גוריון לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, איך אני יכולה להגיע מאוניברסיטת בן גוריון לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, את יכולה לבדוק לי מה המסלול מאוניברסיטת בן גוריון לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+alarm_set, תכווני שעון מעורר לשעה שש ארבעים ושמונה בבוקר מחר,alarm_set,Young
+query, מהי עיר הבירה של בליס,query,Young
+transport_query, תמצאי מסלול לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, תמצאי מסלול במפות לשדרות רוטשילד שלושים בבאר שבע בהליכה,transport_query,Young
+transport_query, תמצאי מסלול במפות לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, מה המסלול להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, תמצאי מסלול בהליכה במפות לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+calendar_set, תכניסי פגישה ליומן בתאריך רביעי ביוני בשעה שתיים וחצי בצהריים בשם תור לרופא עם דוקטור,calendar_set,Young
+alarm_set, את יכולה לכוון לי שעון למחר בשש ארבעים ושמונה בבוקר,alarm_set,Young
+alarm_set, את יכולה לכוון לי שעון מעורר לשש ארבעים ושמונה בבוקר,alarm_set,Young
+transport_query, את יכולה להראות לי איך אני מגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, את יכולה להראות לי איך אני מגיע מהמיקום הנוכחי שלי לכתובת שדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+calendar_set, את יכולה להכניס לי פגישה ליומן עם דוקטור רימון שם הפגישה תהיה תור לרופא התאריך הרביעי ליוני שעה שתיים וחצי,calendar_set,Young
+camera_query, את יכולה לפתוח את המצלמה ולהפעיל טיימר,camera_query,Young
+transport_query, איך אני מגיעה לשדרות רוטשילד שלושים לבאר שבע ברגל,transport_query,Young
+alarm_set, תדליקי שעון מעורר לשש ארבעים ושמונה בבוקר מחר,alarm_set,Young
+transport_query, תפעילי ניווט לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, תפתחי מפות ותנווטי לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, אני צריך להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל תנווטי,transport_query,Young
+transport_query, אני צריך להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, איך להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, תפתחי אפליקציית ניווט ותנווטי לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+alarm_set, תכווני שעון מעורר בבקשה לשש ארבעים ושמונה דקות,alarm_set,Young
+transport_query, תכווני ניווט לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, תפעילי מפות לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, תפעילי מפות לכתובת שדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+lists_createoradd, תוסיפי לי רשימת קניות עם חלב ביצים ודגים,lists_createoradd,Young
+alarm_set, את יכולה בבקשה לקבוע שעון מעורר למחר בשעה שש ארבעים ושמונה בבוקר,alarm_set,Young
+query, מה עיר הבירה של בליז,query,Young
+transport_query, את יכולה בבקשה לחשב לי מסלול לשדרות רוטשילד שלושים בבאר שבע?,transport_query,Young
+transport_query, כמה זמן ברגל ייקח לי להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל?,transport_query,Young
+transport_query, תראי לי בבקשה את המסלול ברגל לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, בבקשה תפתחי את גוגל מפות ותראי לי את המסלול ברגל לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, בבקשה תראי לי במפות את המסלול ברגל לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, איך מגיעים ברגל לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, מה המסלול ברגל לשדרות רוטשילד שלושים בבאר שבע?,transport_query,Young
+calendar_set, תוסיפי לי בבקשה ליומן אירוע בשם תור לרופא שהוא פגישה עם דוקטור רימון בתאריך הרביעי ליוני בשעה שתיים וחצי,calendar_set,Young
+alarm_set, תכווני שעון מעורר למחר בשש ארבעים ושמונה בבוקר,alarm_set,Young
+alarm_set, תכווני שעון מעורר למחר בשעה שש ארבעים ושמונה בבוקר,alarm_set,Young
+transport_query, תפתחי מפות ותקלידי שדרות רוטשילד שלושים,transport_query,Young
+transport_query, תבני לי מסלול הליכה ברגל לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, איך אני מגיע מכאן לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, תבני לי מסלול באפליקציה מפות לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+calendar_set, תקבעי לי פגישה ביומן עם דוקטור רימון תני שם לפגישה תור לרופא בתאריך הרביעי ביוני בשעה שתיים וחצי,calendar_set,Young
+alarm_set, תשימי שעון מעורר בשש ארבעים ושמונה בבוקר למחר,alarm_set,Young
+transport_query, תראי ל מסלול לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, אני רוצה להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל תראי לי מסלול,transport_query,Young
+transport_query, תכווני אותי לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, תפתחי מפות ותראי לי דרך לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, תפתחי מפות ולהגיע ברגל לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, תפתחי מפות להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+call_contact, את פה? תתקשרי לאנה לוי,call_contact,Young
+query, מה העיר בירה של בליס,query,Young
+query, תגידי לי מה העיר בירה של בליז,query,Young
+query,", מה עיר הבירה של ב ל י ז",query,Young
+query,", אניי מאיית לך מדינה אני רוצה שתגידי מה עיר הבירה שלה. האותיות זה ב ל י ז",query,Young
+transport_query,", תסבירי לי איך להגיע לשדרות רוטשילד שלושים בבאר שבע בהליכה",transport_query,Young
+transport_query,", תדריכי אותי איך להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל",transport_query,Young
+transport_query, איך מגיעים לשדרות רוטשילד שלושים בבאר שבע מאיפה שאני נמצא עכשיו,transport_query,Young
+lists_createoradd, תרשמי פתק בפתקים רשימת קניות בשביל להכניס לבפנים חלב ביצים ודגים,lists_createoradd,Young
+alarm_set, תכווני שעון מעורר לשעה שש ארבעים ושמונה בבוקר למחר,alarm_set,Young
+transport_query, תפתחי לי מסלול לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, תפתחי לי ב maps שדרות רוטשילד ארבעים,transport_query,Young
+transport_query, תפתחי לי ב maps שדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, תפתחי לי במפות שדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, איך אני מגיע לשדרות רוטשילד שלושים ברגל בבאר שבע,transport_query,Young
+camera_query, תפתחי את המצלמה,camera_query,Young
+camera_query, תפתחי מצלמה,camera_query,Young
+lists_createoradd, תכתבי פתק חדש רשימת קניות בפנים תכתבי,lists_createoradd,Young
+query, מה היא העיר בירה של בליז,query,Young
+transport_query, איך אני מגיעה לשדרות רוטשילד שלושים בבאר שבע אני הולכת ברגל,transport_query,Young
+transport_query, איך אני מגיעה ברגל לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, אני צריכה להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, אני צריכה להגיע להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, איך אני מנווטת לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+calendar_set, תכניסי לי בבקשה ליומן פגישה עם דוקטור רימון בשם תור לרופא בתאריך הרביעי ליוני בשתיים וחצי בצהריים,calendar_set,Young
+calendar_set, תכניסי לי בבקשה ליומן פגישה עם דוקטור רימון בשם תור לרופא בתאריך הרביעי ליוני בשתיים וחצי,calendar_set,Young
+alarm_set, שמי שעון לשש ארבעים ושמונה בבוקר,alarm_set,Young
+transport_query, תפעילי גוגל מפות לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, תפתחי את אפליקציית מפות ותנווטי לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, אני נמצאת בבאר שבע ואני רוצה להגיע לשדרות רוטשילד שלושים איך להגיע,transport_query,Young
+transport_query, תפעילי וויז לשדרות רוטשילד שלושים בבאר שבע,transport_query,Young
+transport_query, תני לי דרכי הגעה לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, תכווני אותי בוויז לשדרות רוטשילד ארבעים שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, איך אני מגיע לשדרות רוטשילד שלושים ברגל באר שבע ברגל,transport_query,Young
+transport_query, תכווני אותי במפות לשדרות רוטשילד שלושים באר שבע ברגל,transport_query,Young
+transport_query, אני צריך להגיע לשדרות רוטשילד שלושים באר שבע ברגל,transport_query,Young
+transport_query, אני רוצה ללכת לשדרות רוטשילד שלושים ברגל,transport_query,Young
+transport_query, אני צריך לנווט מסלול לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query, תכווני אותי במפות להגיע לשדרות רוטשילד שלושים באר שבע ברגל,transport_query,Young
+transport_query, מסלול לשדרות רוטשילד שלושים באר שבע ברגל,transport_query,Young
+transport_query, לנווט לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Young
+transport_query,אני צריכה את אנה לוי,call_contact,Elderly
+call_contact,שלום אני צריכה להתקשר תקשרי אותי בבקשה לאנה לוי,call_contact,Elderly
+alarm_set,אני צריכה לכוון שעון מעורר למחר לשעה שש ארבעים ושמונה בבקשה,alarm_set,Elderly
+transport_query,אני צריכה להגיע בבקשה לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+calendar_set,אני צריכה שתכניסי ליומן ליומן הפגישה עם דוקטור רימון בתאריך רביעי לשישי עשרים וחמש בשעה שתיים וחצי,calendar_set,Elderly
+calendar_set,מעוניינת להכניס ליומן פגישה עם דוקטור רימון שיהיה בתאריך רביעי לשישי עשרים וחמש בשעה שתיים וחצי,calendar_set,Elderly
+calendar_set,אני מעוניינת להכניס ליומן פגישה עם דוקטור חביב בתאריך רביעי לשישי עשרים וחמש בשעה שתיים וחצי,calendar_set,Elderly
+calendar_set,מדברת אנה מעוניינת שתכניסי ליומן פגישה עם דוקטור חביב ברביעי לשישי עשרים וחמש בשעה שתיים וחצי,calendar_set,Elderly
+calendar_set,מעוניינת שתכניסי ליומן של אנה פגישה עם דוקטור רימון בתאריך רביעי לשישי עשרים וחמש בשעה שתיים וחצי,calendar_set,Elderly
+camera_query,מעוניינת לצלם תמונה של הנוף בעזרת אייפון,camera_query,Elderly
+lists_createoradd,אני צריכה בבקשה רשימת קניות של חלב ביצים דגים,lists_createoradd,Elderly
+query,מה עיר הבירה של מוזיביק תודה מראש אני רוצה להיות שם תודה,query,Elderly
+query,אני מעוניינת בעיר הבירה של מוזיביק תודה מראש,query,Elderly
+transport_query,אני מעוניינת בעיר מוזיביק לבקר שם תודה מראש,query,Elderly
+transport_query,אני מעוניינת בעיר מוזיביק תודה מראש,query,Elderly
+query,אני מעוניינת לדעת מה עיר הבירה של מוזיביק תודה מראש,query,Elderly
+calendar_set,אני מעוניינת להיפגש פגישה עם יוסי שטרית בשעה שבע תודה מראש,calendar_set,Elderly
+calendar_set,אני רוצה להיפגש עם יוסי שטרית לעזור לו עם הבישולים תודה מראש היום,calendar_set,Elderly
+calendar_set,אני מעוניינת להיפגש עם יוסי שטרית פגישה,calendar_set,Elderly
+calendar_set,אני רוצה לקבוע פגישה עם יוסי שטרית תודה,calendar_set,Elderly
+camera_query," אני מוכנה לצלם נוף, אני אוהבת לצלם נופים תודה מראש",camera_query,Elderly
+camera_query," אני רוצה אני מוכנה לצלם נוף, אני אוהבת לצלם נופים תודה מראש",camera_query,Elderly
+send_message,אני רוצה לשלוח תמונה תודה,camera_query,Elderly
+camera_query,אני רוצה לצלם נוף תודה,camera_query,Elderly
+lists_createoradd,אני מוכנה לקנות עוגיות דגנים תודה מראש,lists_createoradd,Elderly
+call_contact,אני מבקשת להתקשר לישראל זילברמן ולרשום לו שהוא יתקשר אלי כשהוא יתפנה,send_message,Elderly
+query,אני מבקשת לבדוק מה העיר בירה של בליז,query,Elderly
+transport_query,אני צריכה להגיע לשדרות רוטשילד בבאר שבע ברגל את יכולה לכוון אותי בבקשה?,transport_query,Elderly
+transport_query,אני צריכה להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל אפשר לשלוח לי מפה?,transport_query,Elderly
+transport_query,אני צריכה להגיע לשדרות רוטשילד שלושים בבאר שבע תוכל לכוון אותי היכן בדיוק איך בדיוק ללכת לשם כי אני צריכה להגיע לשם ברגל,transport_query,Elderly
+transport_query,אני מבקשת להגיע ברגל לבאר שבע שדרות רוטשילד שלושים אפשר לשלוח אליי מפה?,transport_query,Elderly
+transport_query,אני מבקשת להגיע לשדרות רוטשילד שלושים בבאר שבע מבקשת הדרכה,transport_query,Elderly
+transport_query,מבקשת לקבל הסבר איך מגיעים לרחוב שדרות רוטשילד באר שבע שלושים ברגל,transport_query,Elderly
+transport_query,אני מבקשת להגיע ברגל לבאר שבע לשדרות רוטשילד שלושים,transport_query,Elderly
+transport_query,אני מעוניינת להגיע לשדרות רוטשילד שלושים בבאר שבע,transport_query,Elderly
+transport_query,אני מבקשת להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+transport_query,אני צריכה להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל היום,transport_query,Elderly
+transport_query,אני צריכה להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+transport_query,יש לי קושי להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל האם תוכלי לכוון אותי?,transport_query,Elderly
+transport_query,אני מבקשת להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל מבקשת שתשלחי לי מסלול מדוייק,transport_query,Elderly
+lists_createoradd,אני מבקשת להכין לי רשימת קניות שתהיה כלולה בה חלב ביצים דגים,lists_createoradd,Elderly
+call_contact,נא ליצור קשר עם זילברמן כשיתפנה אליי,send_message,Elderly
+send_message,בבקשה ממך לשלוח הודעה לישראל זילברמן כאשר יתפנה,send_message,Elderly
+transport_query,אני צריכה להגיע לרחוב רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+transport_query,אני צריכה להגיע לרחוב רוטשילד שלושים בבאר שבע בהליכה ברגל,transport_query,Elderly
+transport_query,שלום לך אני צריכה להגיע לרחוב רוטשילד שלושים אני לא מתמצאת כל כך בהליכה אני צריכה שתעזרי לי עם זה,transport_query,Elderly
+transport_query,אני צריכה להגיע לרחוב רוטשילד שלושים בבאר שבע בבקשה ממך אולי את יכולה לשלוח לי,transport_query,Elderly
+transport_query,אני מבקשת להגיע לרחוב רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+calendar_set,אני צריכה לקבוע פגישה עם דוקטור רימון בתאריך ארבע לשש עשרים וחמש בשעה ארבע עשרה ושלושים,calendar_set,Elderly
+calendar_set,הפגישה היא ברביעי לשישי אלפיים עשרים וחמש בשעה ארבע עשרה ושלושים,calendar_set,Elderly
+calendar_set,אני צריכה את הפגישה בתאריך רביעי לשישי עשרים וחמש בשעה ארבע עשרה ושלושים,calendar_set,Elderly
+calendar_set,אני צריכה את הפגישה עם דוקטור רימון בתאריך רביעי לשישי אלפיים עשרים וחמש בשעה ארבע עשרה שלושים,calendar_set,Elderly
+calendar_set,אני צריכה לקבוע פגישה עם דוקטור רימון ברביעי לשישי  עשרים וחמש בשעה ארבע עשרה ושלושים,calendar_set,Elderly
+lists_createoradd,"אני צריכה רשימת קניות למחר ביצים, דגים",lists_createoradd,Elderly
+call_contact,תצרי לי קשר בבקשה עם אנה לוי,call_contact,Elderly
+transport_query,תשיגי לי בבקשה את אנה לוי,call_contact,Elderly
+call_contact,בבקשה את אנה לוי,call_contact,Elderly
+call_contact,בבקשה את לוי אנה,call_contact,Elderly
+alarm_set,מבקשת השכמה בשש ארבעים ושמונה בבוקר,alarm_set,Elderly
+alarm_set,מבקשת את השעון המעורר לשש ארבעים ושמונה בבוקר,alarm_set,Elderly
+calendar_set,מחר בבוקר בשש ארבעים ושמונה,alarm_set,Elderly
+alarm_set,מבקשת להתעורר בשש ארבעים ושמונה,alarm_set,Elderly
+alarm_set,מבקשת השכמה לשש ארבעים ושמונה בבוקר,alarm_set,Elderly
+send_message,תשלחי בבקשה הודעת אס אם אס לאדון ישראל זילברמן,send_message,Elderly
+query,בבקשה את עיר הבירה של בליז,query,Elderly
+query,עיר הבירה של בליז,query,Elderly
+query,מבקשת את שם עיר הבירה של בליז,query,Elderly
+transport_query,אני צריכה להגיע לשדרות רוטשילד שלושים באר שבע ברגל,transport_query,Elderly
+transport_query,שדרות רוטשילד בבאר שבע ברגל,transport_query,Elderly
+transport_query,תפתחי בוויז שדרות רוטשילד שלושים באר שבע ברגל,transport_query,Elderly
+transport_query,צריכה את הדרך לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+transport_query,מפה של שדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+transport_query,שדרות רוטשילד בבאר שבע ברגל מפה,transport_query,Elderly
+transport_query,צריכה סימון דרך לשדרות רוטשילד שלושים בבאר שבע רגלית,transport_query,Elderly
+transport_query,שדרות רוטשילד שלושים באר שבע ברגל צריכה להגיע לשם,transport_query,Elderly
+transport_query,שדרות רוטשילד שלושים באר שבע מפה,transport_query,Elderly
+transport_query,ניווט בבקשה לשדרות רוטשילד שלושים באר שבע ברגל,transport_query,Elderly
+calendar_set,תכניסי לי בבקשה ליומן תור בשעה ארבע עשרה ושלושים לדוקטור רימון,calendar_set,Elderly
+calendar_set,תור בבקשה בתאריך הרביעי ליוני בשעה שתיים וחצי לדוקטור רימון,calendar_set,Elderly
+calendar_set,תור לרביעי ליוני בשעה שתיים ושלושים לדוקטור רימון,calendar_set,Elderly
+camera_query,אני צריכה את המצלמה לצלם את הנוף,camera_query,Elderly
+lists_createoradd,תרשמי לי פתק בבקשה עם רשימת קניות חלב ביצים ודגים,lists_createoradd,Elderly
+call_contact,תמצאי לי את אנה לוי באנשי קשר אני צריך להתקשר,call_contact,Elderly
+call_contact,אני מעוניין להתקשר לאנה לוי באנשי קשר,call_contact,Elderly
+call_contact,תתקשרי לאנה  אנה לוי,call_contact,Elderly
+alarm_set,תכווני בבקשה שעון מעורר למחר לשעה שש ארבעים ושמונה בבוקר,alarm_set,Elderly
+alarm_set,תכווני את השעון המעורר לשש ארבעים ושמונה מחר,alarm_set,Elderly
+calendar_set,כווני את השיון למחר לשש ארבעים ושמונה,alarm_set,Elderly
+transport_query,אני רוצה להגיע ברגל לרוטשילד שלושים בבאר שבע שדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+transport_query,אני צריך להגיע ברגל לשדרות רוטשילד שלושים בבאר שבע,transport_query,Elderly
+transport_query,אני צריך לשדרות רוטשילד שלושים בבאר שבע ללכת ברגל,transport_query,Elderly
+transport_query,אני צריך להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+transport_query,אני הולך ברגל לרוטשילד שלושים בבאר שבע תעזרי לי להגיע,transport_query,Elderly
+transport_query,איך אני מגיע ברגל לשלושים רוטשילד בבאר שבע,transport_query,Elderly
+transport_query,אני רוצה להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+transport_query,איך אני מגיע לשלושים רוטשילד רוטשילד שלושים בבאר שבע,transport_query,Elderly
+transport_query,איך אני מגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+transport_query,אני מעוניין להגיע ברגל לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+transport_query,אני מעוניין להיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+transport_query,איך אני מגיע ברגל לשלושים רוטשילד באר שבע,transport_query,Elderly
+calendar_set,אני מעוניין לרשום ביומן פגישות דוקטור רימון בשם ליום רביעי ליוני ארבע עשרה ושלושים שעה ארבע עשרה ושלושים,calendar_set,Elderly
+calendar_set,אני מעוניין לרשום ביומן פגישה עם דוקטור רימון רופא ליוני בשעה ארבע עשרה ושלושים,calendar_set,Elderly
+lists_createoradd,אני מעוניין ברשימה קניות חלב ביצים ודגים,lists_createoradd,Elderly
+lists_createoradd,אני מעוניין ברשימת קניות חלב ביצים ודגים,lists_createoradd,Elderly
+lists_createoradd,אני מעוניין בפתק רשימת קניות חלב ביצים ודגים,lists_createoradd,Elderly
+lists_createoradd,אני צריך פתקית של רשימת קניות חלב ביצים ודגים,lists_createoradd,Elderly
+send_message,אני מעוניינת שתשלחי הודעת טקסט הבאה באס אם אס תתקשר אליי כשתתפנה בבקשה לישראל זילברמן תודה,send_message,Elderly
+send_message,אנא שלחי לישראל זילברמן את הודעת הטקסט הבאה באס אם אס,send_message,Elderly
+query,אני מעוניינת לבדוק מה היא העיר הבירה של בליז תודה,query,Elderly
+transport_query,אני מעוניינת להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+transport_query,אני צריכה להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל עם מפה בבקשה,transport_query,Elderly
+transport_query,אני מעוניינת להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל עם מפה,transport_query,Elderly
+transport_query,אני צריכה להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל עם ניווט,transport_query,Elderly
+calendar_set,אני מעוניינת להכניס ליומן פגישה עם דוקטור רימון בשם תור לרופא בתאריך הרביעי ליוני בשעה ארבע עשרה ושלושים,calendar_set,Elderly
+calendar_set,תכניסי אותי בבקשה ליומן פגישה עם דוקטור רימון תור לרופא,calendar_set,Elderly
+alarm_set,את מוכנה בבקשה לכוון את השעון המעורר לשש ארבעים ושמונה בבוקר תודה,alarm_set,Elderly
+alarm_set,את מוכנה בבקשה לכוון את השעון לשש ארבעים ושמונה בבוקר,alarm_set,Elderly
+calendar_set,מעוניינת בהשכמה בשש ארבעים ושמונה תודה,alarm_set,Elderly
+calendar_set,מעוניינת בהשכמה בשש ארבעים ושמונה בבוקר תודה,alarm_set,Elderly
+alarm_set,בבקשה תעירי אותי בשש ארבעים ושמונה בבוקר,alarm_set,Elderly
+alarm_set,תעירי אותי בבקשה בשש ארבעים שמונה בבוקר,alarm_set,Elderly
+send_message,תשלחי לישראל זילברמן את הודעת הטקסט הבאה באס אם אס תתקשר אליי כשתתפנה בבקשה,send_message,Elderly
+transport_query,את מוכנה לנווט אותי לשדרות רוטשילד שלושים בבאר שבע,transport_query,Elderly
+transport_query,את מוכנה לנווט אותי לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+transport_query,את מוכנה לנווט אותי לרחוב שדררות רוטשילד באר שבע ברגל,transport_query,Elderly
+calendar_set,אני מעוניינת להכניס ליומן פגישה עם דוקטור רימון בתאריך הרביעי ליוני בשתיים וחצי בצהריים,calendar_set,Elderly
+call_contact,תתקשרי לאנה לוי בבקשה,call_contact,Elderly
+call_contact,תתקשרי בבקשה לאנה לוי,call_contact,Elderly
+call_contact,תתקשרי לאנה לוי,call_contact,Elderly
+alarm_set,בבקשה תכוון שעון מעורר לשעה שש ארבעים ושמונה בבוקר,alarm_set,Elderly
+alarm_set,תכוון בבקשה שעון מעורר לשש ארבעים ושמונה בבוקר,alarm_set,Elderly
+alarm_set,תכוון שעון מעורר לשש ארבעים ושמונה בבוקר,alarm_set,Elderly
+call_contact,תשלח בבקשה אס אם אס לישראל זילברמן שיתקשר אליי בבוקר,send_message,Elderly
+query,הייתי רוצה לשאול מה העיר בירה של בליז,query,Elderly
+query,הייתי רוצה לשאול מה עיר הבירה של בליז,query,Elderly
+lists_createoradd,תרשום לי פתק עם רשימת הקניות שבה יהיה חלב ביצים ודגים,lists_createoradd,Elderly
+lists_createoradd,תעשי לי פתק לקניה רשימה קנייה שבה יהיה חלב ביצים ודגים,lists_createoradd,Elderly
+lists_createoradd,תעשי לי רשימה לקניה שבה יהיה חלב ביצים ודגים,lists_createoradd,Elderly
+alarm_set,אני מבקש לכוון שעון מעורר למחר בשעה שש ארבעים ושמונה בבוקר,alarm_set,Elderly
+transport_query,אני צריך להגיע לשדרות רוטשילד שלושים באר שבע ברגל,transport_query,Elderly
+transport_query,אני מבקש להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+transport_query,אני צריך להגיע לשדרות רוטשילד שלושים ברגל בבאר שבע תני לי מסלול,transport_query,Elderly
+transport_query,אני צריך להגיע לשדרות רוטשילד שלושים בבאר שבע רגלי,transport_query,Elderly
+transport_query,תבני לי מסלול להגיע לשדרות רוטשילד שלושים בבאר שבע רגלי,transport_query,Elderly
+transport_query,תכווני אותי להגיע לשדרות רוטשילד שלושים בבאר שבע,transport_query,Elderly
+transport_query,אני מבקש הוראות הגעה לשדרות רוטשילד שלושים בבאר שבע רגלי,transport_query,Elderly
+transport_query,אני מבקש מסלול להגיע בהליכה רגלית לשדרות רוטשילד שלושים אר שבע,transport_query,Elderly
+transport_query,אני צריך להגיע רגלית לשדרות רוטשילד שלושים בבאר שבע תני לי מסלול,transport_query,Elderly
+transport_query,תבני לי מסלול להגיע לשדרות רוטשילד שלושים בבאר שבע רגלית,transport_query,Elderly
+transport_query,אני צריך להגיע לשדרות רוטשילד שלושים בבאר שבע בהליכה ברגל,transport_query,Elderly
+camera_query,אני מעוניין לצלם תמונה של הנוף בעזרת האייפון,camera_query,Elderly
+camera_query,אני צריך לצלם תמונה של הנוף בעזרת האייפון,camera_query,Elderly
+camera_query,אני מבקש לצלם תמונה של הנוף בעזרת האייפון,camera_query,Elderly
+camera_query,תפתחי לי את המצלמה אני מבקש לצלם את הנוף בעזרת האייפון,camera_query,Elderly
+camera_query,תפתחי לי את המצלמה אני מבקש לצלם תמונת נוף,camera_query,Elderly
+camera_query,אני מבקש לפתח לי את הטלפון אני צריך לצלם,camera_query,Elderly
+camera_query,אני צריך לצלם תפתחי לי את הטלפון,camera_query,Elderly
+lists_createoradd,תכיני לי רשימת קניות שבה יהיה חלב ביצים ודגים,lists_createoradd,Elderly
+lists_createoradd,תכיני לי רשימה על פתק עם רשימת קניות שבה יהיה חלב ביצים ודגים,lists_createoradd,Elderly
+call_contact,את מוכנה להתקשר לאנה לוי בבקשה היא נמצאת באנשי הקשר,call_contact,Elderly
+send_message,את מוכנה בבקשה לשלוח אס אם אס לאלי זילברמן שהוא יתקשר אליי כשהוא מתפנה,send_message,Elderly
+query,אני רוצה לדעת מה העיר בירה של בליז,query,Elderly
+query,מה היא עיר הבירה של בליז,query,Elderly
+camera_query,אם את יכולה לפתוח לי את המצלמה אני רוצה לצלם תמונה של נוף בעזרת האייפון,camera_query,Elderly
+lists_createoradd,אני רוצה לרשום רשימה של קניות שיהיו בה חלב ביצים ודגים,lists_createoradd,Elderly
+lists_createoradd,את את יכולה בבקשה לרשום לי על פתק את רשימת הקניות שלי שיהיה בה חלב ביצים ודגים,lists_createoradd,Elderly
+lists_createoradd,אם את יכולה בבקשה לרשום לי על פתק את רשימת הקניות שיהיה בה חלב ביצים ודגים,lists_createoradd,Elderly
+lists_createoradd,אם את יכולה לרשום לי על פתק את רשימת הקניות שלי ושיהיה בה חלב ביצים ודגים,lists_createoradd,Elderly
+lists_createoradd,תצרי לי בבקשה רשימה על פתק עם הקניות חלב ביצים ודגים,lists_createoradd,Elderly
+transport_query,כווני אותי בבקשה איך אני מגיע ברגל לרוטשילד שלושים בבאר שבע,transport_query,Elderly
+transport_query,אני רוצה להגיע לרחוב רוטשילד שלושים בבאר שבע רגלית כווני אותי בבקשה,transport_query,Elderly
+transport_query,כווני אותי בבקשה איך אני אגיע לרחוב שדרות רוטשילד שלושים בבאר שבע,transport_query,Elderly
+transport_query,כווני אותי בבקשה איך אני מגיע ברגל לרחוב רוטשילד שלושים בבאר שבע,transport_query,Elderly
+camera_query,אני מעוניין לצלם תמונת נוף בעזרת האייפון,camera_query,Elderly
+camera_query,תפתחי לי בבקשה את המצלמה אני רוצה לצלם תמונה של נוף בעזרת האייפון,camera_query,Elderly
+lists_createoradd,תכיני לי בבקשה רשימה של פריטים בפתקים רשימת קניות בעצם שלפחות יהיה שם ביצים חלב ודגים,lists_createoradd,Elderly
+lists_createoradd,תכיני לי בבקשה באפליקציית הפתקים רשימת קניות שהפריטים שיהיו שם זה ביצים חלב ודגים,lists_createoradd,Elderly
+call_contact,תתקשרי בבקשה לאנה לוי שנמצאת באנשי הקשר,call_contact,Elderly
+transport_query,אני צריך להגיע לשדרות רוטשילד 30 בבאר שבע ברגל,transport_query,Elderly
+transport_query,אני צריך מסלול להגעה לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+transport_query,אני צריך הוראות הגעה לשדרות רוטשילד 30 בבאר שבע ברגל,transport_query,Elderly
+camera_query,מעוניין לצלם תמונה של הנוף בעזרת האייפון,camera_query,Elderly
+call_contact,תקשרי אותי בבקשה לאנה לוי,call_contact,Elderly
+query,אני מעוניינת שתבדקי לי בבקשה מה עיר הבירה של בליז,query,Elderly
+query,את יכולה בבקשה לבדוק לי מה עיר הבירה של בליז,query,Elderly
+query,את יכולה אולי יש לך עוד אפשרות לבדוק לי מה עיר הבירה של בליז,query,Elderly
+query,תחפשי לי בבקשה מה עיר הבירה של בליז,query,Elderly
+transport_query,תכווני אותי בבקשה איך אני מגיעה לשדרות רוטשילד שלושים בבאר שבע,transport_query,Elderly
+transport_query,אולי תצרי לי מסלול כדי שאני אדע איך להגיע לשדרות רוטשילד הכי נוחה בבאר שבע ברגל,transport_query,Elderly
+lists_createoradd,תפתחי לי בבקשה רשימת קניות עם חלב ביצים ודגים ושיהיה בפתק,lists_createoradd,Elderly
+lists_createoradd,רשימת קניות בבקשה חלב ביצים ודגים אבל שיהיה על פתק,lists_createoradd,Elderly
+transport_query,אני צריכה להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל תתכנני לי מסלול,transport_query,Elderly
+transport_query,אני צריכה להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל תוכלי בבקשה לתכנן לי מסלול,transport_query,Elderly
+transport_query,תתכני לי מסלול לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+lists_createoradd,אני מעוניינת לרשום בפתק את רשימת הקניות שיהיה בזה חלב ביצים ודגים,lists_createoradd,Elderly
+alarm_set,אני מבקש השכמה מחר בשש ארבעים ושמונה בבוקר תודה,alarm_set,Elderly
+alarm_set,אני מבקש השכמה למחר שש ארבעים ושמונה בבוקר,alarm_set,Elderly
+transport_query,אני מעוניין להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+transport_query,אני מעוניין להגיע לשדרות רוטשילד ברגל,transport_query,Elderly
+calendar_set,אני מעוניין להכניס ליומן פגישה עם דוקטור רימון בשם תור לרופא בתאריך רביעי ליוני בשעה שתיים וחצי בצהריים,calendar_set,Elderly
+calendar_set,אני מעוניין פגישה עם דוקטור רימון בשם תור לרופא בתאריך שנה הבאה ברביעי ליוני בשעה שתיים וחצי,calendar_set,Elderly
+calendar_set,אני מעוניין להכניס ליומן פגישה עם דוקטור רימון בשם תור לרופא בתאריך רביעי ליוני בשעה שתיים וחצי,calendar_set,Elderly
+camera_query,אני מעוונין לצלם תמונה של הנוף בים המלח,camera_query,Elderly
+camera_query,אני מעוניין לצלם תמונה של הנוף,camera_query,Elderly
+lists_createoradd,אני מעוניין לרשום פתק עם רשימת קניות שבה יהיה חלב ביצים ודגים,lists_createoradd,Elderly
+iot_wemo_on,אני מעוניין להדליק את הפנס בטלפון,iot_wemo_on,Elderly
+alarm_set,תכווני לי בבקשה את השעון המעורר למחר בשעה שש ארבעים ושמונה בבוקר,alarm_set,Elderly
+query,אני מבקש בבקשה שתמצאי לי לבדוק לי סליחה לבדוק לי מה עיר הבירה של בליז תודה,query,Elderly
+query,אני מעוניין לבדוק מהי עיר הבירה של בליז,query,Elderly
+transport_query,אני צריך להגיע בבקשה לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+transport_query,אני מבקש שתצייני לי מסלול אפשרות להגיע לשדרות רוטשילד שלושים בבאר שבע אבל ברגל,transport_query,Elderly
+transport_query,אני צריך להגיע מה שיותר מהר לשדרות רוטשילד שלושים בבאר שבע אבל ברגל,transport_query,Elderly
+calendar_set,אני מבקש מעוניין להכניס ליומן ליומן הפגישות עם דוקטור רימון בשם תור לרופא בתאריך רביעי ליוני בשעה ארבע עשרה ושלושים תודה,calendar_set,Elderly
+calendar_set,אני מעוניין לקבוע תור לדוקטור רימון לרופא,calendar_set,Elderly
+calendar_set,בבקשה תקבעי לי תור לדוקטור רימון ותכניס את זה ליומן שלי בתאריך הרביעי ליוני בשעה ארבע עשרה ושלושים תודה,calendar_set,Elderly
+camera_query,אני מעוניין לצלם תמונה של נוף בעזרת האייפון את עזרתך בבקשה,camera_query,Elderly
+camera_query,תפתחי את המצלמה אני מעוניין לצלם תמונת נוף בעזרת האייפון,camera_query,Elderly
+camera_query,אני מעוניין לצלם תמונת נוף תודה,camera_query,Elderly
+alarm_set,אני מבקש שעון מעורר לשש ארבע שמונה בבוקר,alarm_set,Elderly
+alarm_set,אני מבקש שעון מעורר לשש ארבעים ושמונה בבוקר,alarm_set,Elderly
+alarm_set,אני מבקש שעון מעורר לשעה שש ארבעים ושמונה בבוקר,alarm_set,Elderly
+query,אני מבקש לבדוק מבקש את עיר הבירה של המדינה בליץ ב ל י ז,query,Elderly
+query,אני מבקש לבדוק את עיר הבירה של מדינת בליץ ב ל י ז,query,Elderly
+query,אני מבקש לבדוק את עיר הבירה של בליץ מדינת בליץ,query,Elderly
+transport_query,מבקש להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+transport_query,מבקש להגיע לשדרות רוטשילד שלושים בהליכה בבאר שבע,transport_query,Elderly
+transport_query,מבקש מסלול לשדרות רוטשילד שלושים בבאר שבע בהליכה,transport_query,Elderly
+camera_query,אני מבקש לפתוח את המצלמה של האייפון לצלם תמונה של הנוף בעזרת האייפון,camera_query,Elderly
+camera_query,מעוניין לצלם תמונה של הנוף,camera_query,Elderly
+alarm_set,אני מעוניינת לכוון שעון מעורר למחר בשעה שש ארבעים ושמונה בבוקר,alarm_set,Elderly
+transport_query,מעוניינת להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+transport_query,איך אפשר להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+calendar_set,לעדכן בבקשה יומן פגישה עם דוקטור רימון בשם תור לרופא בתאריך יום רביעי לא בתאריך ברביעי ליוני בשעה ארבע עשרה ושלושים,calendar_set,Elderly
+calendar_set,מבקשת לקבוע ביומן פגישה עם דוקטור רימון בשם תור לרופא בתאריך הרביעי ליוני בשעה ארבע עשרה ושלושים,calendar_set,Elderly
+calendar_set,מבקשת לקבוע ביומן פגישה עם דוקטור רימון תור לרופא ביום רביעי בשעה ארבע עשרה ושלושים,calendar_set,Elderly
+camera_query,מעוניינת לצלם תמונה של הנוף בעזרת האייפון,camera_query,Elderly
+lists_createoradd,לערוך רשימת קניות לרשום פתק שבה יהיה חלב ביצים ודגים,lists_createoradd,Elderly
+alarm_set,אני מבקש לכוון לי את השעון המעורר לשש ארבעים ושמונה בבוקר,alarm_set,Elderly
+alarm_set,אני מבקש לכוון את השעון המעורר לשעה אפס שש ארבעים ושמונה בבוקר,alarm_set,Elderly
+alarm_set,אני מבקש לכוון את השעון המעורר לשעה אפס שש ארבעים ושמונה דקות בבוקר,alarm_set,Elderly
+send_message,אני מבקש שישראל זילברמן שלח לי את ההודעה תתקשר אליי כשתתפנה בבקשה,send_message,Elderly
+query,אני מבקש שתבדקי לי מה עיר הבירה של בליז,query,Elderly
+query,מבקש שתבדקי לי מה עיר הבירה של בליז,query,Elderly
+transport_query,אני מבקש שתתני לי דרך הגעה ברגל לשדרות רוטשילד שלושים בבאר שבע,transport_query,Elderly
+lists_createoradd,אני מבקש שתפתחי לי רשימת קניות שיהיה בה חלב ביצים ודגים,lists_createoradd,Elderly
+lists_createoradd,אני מבקש שתפתחי לי פתק עם רשימת קניות שיהיה בה חלב ביצים ודגים,lists_createoradd,Elderly
+alarm_set,בוקר טוב סירי אני מעוניין להתעורר מחר בשני לחודש בשעה שש ארבעים ושמונה בבוקר תעירי אותי בבקשה,alarm_set,Elderly
+alarm_set,סירי כנראה שטעיתי אני מעוניין להתעורר מחר בשש ארבעים ושמונה בבוקר תודה,alarm_set,Elderly
+alarm_set,סירי בוקר טוב אני מעוניין להתעורר מחר בשש נקודה ארבע שמונה בבוקר,alarm_set,Elderly
+query,בוקר טוב סירי אני מעוניין לדעת מה עיר הבירה של בליז,query,Elderly
+transport_query,אני צריך להגיע לשדרות רוטשילד שלושים בבאר שבע הליכה ברגל,transport_query,Elderly
+transport_query,בוקר טוב סירי אני צריך להגיע לשדרות רוטשילד שלושים בהליכה ברגל,transport_query,Elderly
+transport_query,אני צריך להגיע לשדרות רוטשילד שלושים בבאר שבע איך אני מגיע,transport_query,Elderly
+calendar_set,אני צריך לתאם פגישה עם דוקטור רימון ברביעי ליוני בשעה שתיים וחצי,calendar_set,Elderly
+lists_createoradd,אני מעוניין שתוסיפי לרשימת הקניות שלי שיהיה בה גם חלב גם ביצים גם דגים,lists_createoradd,Elderly
+lists_createoradd,אני חייב לרשום על פתק עם רשימת קניות שיהיה בהם גם חלב גם ביצים וגם דגים,lists_createoradd,Elderly
+lists_createoradd,אני מעוניין שתוסיפי לרשימת הפתקים של הקניות שלי שיהיה רשום גם חלב גם ביצים גם דגים,lists_createoradd,Elderly
+iot_wemo_on,אני מעוניין להדליק את הפנס בפלאפון,iot_wemo_on,Elderly
+alarm_set,אני מעוניין לכוון שעון מעורר למחר בשעה שש ארבעים ושמונה בבוקר,alarm_set,Elderly
+weather_query,ההשקמה היא לשש ארבעים ושמונה,alarm_set,Elderly
+weather_query,יש טעות ההשקמה היא לשש ארבעים ושמונה בבוקר,alarm_set,Elderly
+send_message,אני רוצה שתשלחי לישראל זילברמן הודעת טקסט תתקשר אליי כשתתפנה בבקשה,send_message,Elderly
+transport_query,את יכולה לתכנן לי מסלול לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+calendar_set,אני מעוניין להכניס ליומן פגישה עם דוקטור רימון,calendar_set,Elderly
+camera_query,אני מעוניין לצלם תמונה של הנוף בעזרת האייפון תפתחי את המצלמה,camera_query,Elderly
+alarm_set,אני מעוניין לכוון את השעון המעורר למחר בשעה שש ארבעים ושמונה בבוקר,alarm_set,Elderly
+alarm_set,אני מעוניין לכוון את השעון המעורר למחר בבוקר שש ארבעים ושמונה בבוקר,alarm_set,Elderly
+transport_query,אני צריך את עזרתך להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+alarm_set,אני מעוניין לכוון את השעון המעורר להשכמה בשעה שש ארבעים ושמונה בבוקר,alarm_set,Elderly
+send_message,אנא שלחי לישראל זילברמן את הודעת הטקסט הבאה באס אם אס תתקשר אליי כשתתפנה בבקשה,send_message,Elderly
+transport_query,צריך להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+calendar_set,אני מעוניין להכניס ליומן פגישה עם דוקטור רימון בשם תור לרופא בתאריך הרביעי ליוני בשעה ארבע עשרה ושלושים בצהריים,calendar_set,Elderly
+calendar_set,אני מעוניין להכניס ליומן פגישה עם דוקטור רימון בשם תור לרופא בתאריך הרביעי ליוני בשעה שתיים וחצי דקות,calendar_set,Elderly
+transport_query,מבקש להגיע לשדרות רוטשילד שלושים בבאר שבע בהליכה,transport_query,Elderly
+transport_query,יש אפשרות להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+transport_query,יש אפשרות להגיע לשדרות רוטשילד שלושים בבאר שבע בהליכה,transport_query,Elderly
+camera_query,מבקש לפתוח לי את המצלמה בעזרת האייפון,camera_query,Elderly
+camera_query,מבקש בבקשה לפתוח את מצלמה,camera_query,Elderly
+alarm_set,אני מעוניין לכוון את השעון המעורר למחר בשעה שש וארבעים ושמונה בבוקר,alarm_set,Elderly
+alarm_set,מעוניין לכוון את השעון המעורר בשעה שש ארבעים ושמונה בבוקר,alarm_set,Elderly
+calendar_set,אני מעוניין להכניס ליומן פגישות פגישה עם דר רימון בשעה ארבע עשרה ושלושים תור לרופא,calendar_set,Elderly
+camera_query,אני מעוניין לפתוח את המצלמה אני רוצה לצלם תמונת נוף בעזרת האייפון,camera_query,Elderly
+alarm_set,כווני לי בבקשה את השעון לשעה שש ארבעים ושמונה בבוקר,alarm_set,Elderly
+alarm_set,כווני לי בבקשה את השעון לשעה אפס שש ארבעים ושמונה דקות בבוקר,alarm_set,Elderly
+query,מה עיר הבירה של בליס,query,Elderly
+transport_query,איך מגיעים לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+transport_query,אני צריך להגיע לשדרות רוטשילד שלושים בבאר שבע רגלית,transport_query,Elderly
+calendar_set,מבקש להכניס ליומן פגישה עם דוקטור רימון תור לרופא שלי דוקטור רימון,calendar_set,Elderly
+lists_createoradd,מבקש לעדכן רשימת קניות שבה יהיה צריך להיות חלב דגים וביצים,lists_createoradd,Elderly
+call_contact,אני מעוניין לדבר עם אנה לוי שנמצאת באנשי הקשר,call_contact,Elderly
+alarm_set,אני מעוניין לכוון את השעון מעורר למחר בשעה שש ארבעים ושמונה בבוקר,alarm_set,Elderly
+alarm_set,האם את יכולה לכוון את השעון מעורר למחר בשעה שש ארבעים ושמונה בבוקר,alarm_set,Elderly
+send_message,אני מבקש לשלוח לישרראל זיל זילברמן את הודעת הטקסט הבאה ב-SMS תתקשר אלי כשתתפנה בבקשה,send_message,Elderly
+transport_query,אני מבקש לדעת איך להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+transport_query,הייתי רוצה להגיע לשדרות רוטשילד שלושים בבאר שבע ברגל,transport_query,Elderly
+calendar_set,אני מעוניין להכניס ליומן פגישה עם דוקטור רימון בשם תור לרופא בתאריך הרביעי ליוני בשעה ארבע עשרה ושלושים,calendar_set,Elderly
+alarm_set,כווני לי שעון מעורר לשעה שש ארבעים ושמונה בבוקר,alarm_set,Elderly
+alarm_set,כיוון שעון מעורר שש ארבעים ושמונה,alarm_set,Elderly
+alarm_set,שש ארבעים ושמונה בבוקר שעון מעורר,alarm_set,Elderly
+alarm_set,כיוון שעון מעורר שעה שש ארבעים ושמונה בבוקר,alarm_set,Elderly
+alarm_set,שש ארבעים ושמונה שעון מעורר,alarm_set,Elderly
+alarm_set,שעון מעורר שעה שש ארבעים ושמונה בבוקר,alarm_set,Elderly
+alarm_set,שעון מעורר לשעה שש ארבעים ושמונה,alarm_set,Elderly
+alarm_set,כיוון שעון מעורר שש ארבעים ושמונה בבוקר,alarm_set,Elderly
+alarm_set,שעון מעורר שש ארבעים ושמונה בבוקר,alarm_set,Elderly
+alarm_set,כיוון שעון מעורר לשעה שש ארבעים ושמונה בבוקר ולא בערב,alarm_set,Elderly
+camera_query,לפתוח את המצלמה בבקשה ולצלם תמונת נוף בעזרת האייפון,camera_query,Elderly
+lists_createoradd,רשימת קניות שבה יהיה חלב ביצים ודגים,lists_createoradd,Elderly
